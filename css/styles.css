@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1C3879;
+}
+.p-1{
+  width: 300px;
+  margin-left: 30%;
+  margin-top: 19%;
+  position: absolute;
+}
+.p-2{
+  width: 300px;
+  margin-left: 50%;
+  position: absolute;
+  margin-top: 19%;
+}
+
+.pra-1{
+  margin-left: 32.3%;
+  margin-top: 16%;
+  margin-bottom: 4%;
+  position: absolute;
+  font-family: 'Ubuntu', sans-serif;
+  color: #EAF6F6;
+  font-size: 2rem;
+}
+
+.pra-2{
+  margin-left: 52.3%;
+  margin-top: 16%;
+  position: absolute;
+  font-family: 'Ubuntu', sans-serif;
+  color: #EAF6F6;
+  font-size: 2rem;
+}
+.Notice{
+    margin-left: 43%;
+      margin-top: 1.2%;
+    position: absolute;
+    z-index: 10;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #EAF6F6;
+}
+.container{
+    margin-left: 26%;
+    position: absolute;
+    font-size: 4rem;
+    font-family: 'Pacifico', cursive;
+    color: #EAF6F6;
+}
+
+.extrastyle{
+  margin-top: 30%;
+  margin-left: 5%;
+  position: absolute;
+
+}
+
+.money-man {
+  margin-top: 20%;
+  margin-left: 70%;
+  position: absolute;
+}
+
+.foot-text{
+  margin-top: 43%;
+  margin-left: 39%;
+  position: absolute;
+  color: #EAF6F6;
+  font-family: 'Mingzat', sans-serif;
+}
